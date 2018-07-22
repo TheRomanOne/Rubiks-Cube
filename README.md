@@ -1,4 +1,4 @@
-# Rubiks-Cube
+# Rubiks Cube for Unity
 
 A rebik's cube that shuffles randomly and solves itself
 
